@@ -25,7 +25,7 @@ I enjoy building **scalable, reliable backend systems**, improving performance, 
 ## 🛠 Tech Stack
 
 ### 🔹 Languages
-- Java (11, 17, 21)
+- Java (11, 17)
 
 ### 🔹 Frameworks & Architecture
 - Spring Boot, Spring Security  
