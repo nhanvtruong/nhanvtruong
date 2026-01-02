@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @nhanvtruong
 
-Backend Developer with **~4 years of experience** specializing in **Java**, **Spring Framework** and hands-on experience with cloud platforms like AWS, Azure.  
-I enjoy building **scalable, reliable backend systems**, improving performance, and working on real-world products in **banking** and **e-commerce** domains.
+Backend Developer with 4+ years of experience specializing in Java and the Spring ecosystem, with hands-on experience in cloud platforms (AWS, Azure).
+Passionate about building scalable, reliable backend systems, optimizing performance, and delivering real-world solutions in banking and e-commerce domains.
 
 ---
 
